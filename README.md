@@ -1,2 +1,1 @@
-# Github-submit-files
-A method for submit your files to Github
+这将帮助你上传自己的文件到github，用不通过网页的方式
